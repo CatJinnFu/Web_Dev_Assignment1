@@ -1,0 +1,39 @@
+<clothes>
+<men>
+ <item>
+ 	<type></type>
+ 	<type_meta></type_meta>
+ 	<id></id>
+	<product></product>
+	<price></price>
+	<brand></brand>
+	<details></details>
+	<material></material>
+	<size></size>
+	<description></description>
+	<photos>
+	<photo_one></photo_one>
+	<photo_two></photo_two>
+	</photos>
+ </item>
+</men>
+
+<ladies>
+  <item>
+  	<type></type>
+  	<type_meta></type_meta>
+  	<id></id>
+	<product></product>
+	<brand></brand>
+	<details></details>
+	<material></material>
+	<size></size>
+	<description></description>
+	<photos>
+	<photo_one></photo_one>
+	<photo_two></photo_two>
+	</photos>
+ </item>
+</ladies>
+
+</clothes>

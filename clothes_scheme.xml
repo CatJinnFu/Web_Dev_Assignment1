@@ -1,0 +1,29 @@
+<clothes>
+<men>
+ <item>
+ 	<type></type>
+ 	<id></id>
+	<product></product>
+	<price></price>
+	<brand></brand>
+	<details></details>
+	<material></material>
+	<size></size>
+	<description></description>
+ </item>
+</men>
+
+<ladies>
+  <item>
+  	<type></type>
+  	<id></id>
+	<product></product>
+	<brand></brand>
+	<details></details>
+	<material></material>
+	<size></size>
+	<description></description>
+ </item>
+</ladies>
+
+</clothes>
