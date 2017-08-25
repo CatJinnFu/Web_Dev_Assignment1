@@ -1,3 +1,28 @@
+******Dieter's Web Development Assignment 1******
+
+To view working version :
+
+http://www.deakin.edu.au/~schmidd/SIT203/Assignment1/
+
+This is a template we where given to develop into a functional e-commerce site.
+
+I have modified the following files :
+
+category-lady.html
+category-men.html
+
+I have added :
+
+brands_ladies.xsl
+brands_ladies_type.xsl
+brands_men.xsl
+brands_men_type.xsl
+
+All my Javascript to enable search, navigation functions is in :
+
+js/template.js ## --> this is where evidence of my work to use Javascript Ajax, and render xml objects is.
+
+************************************************************
 Hello,
 
 thank you for downloading Obaju, responsive bootstrap e-commerce template.
